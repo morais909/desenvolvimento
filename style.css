@@ -1,0 +1,16 @@
+h1{
+    color: rgb(255, 0, 166);
+    text-align: center;
+}
+
+body {
+    background-color: violet;
+}
+.imagem {
+    text-align: center;
+}
+
+p{
+    font-family: Verdana, ;
+    font-size: 35px;
+}
